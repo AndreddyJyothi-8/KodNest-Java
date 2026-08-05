@@ -2,7 +2,7 @@
 public class p1 {
 
     public static void main(String[] args) {
-        int num = -1;
+        int num = 0;
         if (num > 0) {
             System.out.println("Positive number");
         } else if (num < 0) {

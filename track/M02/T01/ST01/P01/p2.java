@@ -1,0 +1,12 @@
+
+public class p2 {
+
+    public static void main(String[] args) {
+        int number = -7;
+        int firstScore = 18;
+        int secondScore = 25;
+        if (number > 0) {
+            System.out.println("Number typed: Positive")
+        }
+    }
+}
