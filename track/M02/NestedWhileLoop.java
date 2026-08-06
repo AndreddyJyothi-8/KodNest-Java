@@ -1,5 +1,5 @@
 
-public class Loop2 {
+public class NestedWhileLoop {
 
     public static void main(String[] args) {
         int i = 1;
